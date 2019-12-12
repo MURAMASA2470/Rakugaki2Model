@@ -1,3 +1,9 @@
 [submodule "Rakugaki2Model_Client"]
 	path = Rakugaki2Model_Client
 	url = https://github.com/MURAMASA2470/Rakugaki2Model_Client.git
+[submodule "Rakugaki2Model_MainProcess"]
+	path = Rakugaki2Model_MainProcess
+	url = https://github.com/MURAMASA2470/Rakugaki2Model_MainProcess.git
+[submodule "Rakugaki2Model_Server"]
+	path = Rakugaki2Model_Server
+	url = https://github.com/MURAMASA2470/Rakugaki2Model_Server.git
